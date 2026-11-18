@@ -1,0 +1,11 @@
+.env
+tasks.db
+*.db
+debug/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+_reference/
